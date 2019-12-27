@@ -36,5 +36,3 @@ function switchAge(age) {
   }else{(age<13&&age>19)
   }
   }
-
-}
